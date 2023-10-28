@@ -1,2 +1,2 @@
-# dio_scrum_cases
+# scrum_case_analysis
 Estudo de cases de sucesso com uso do Scrum, de forma a desenvolver as habilidades de análise crítica.
